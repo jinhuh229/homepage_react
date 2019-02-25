@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Barcode+39+Text');
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+
+.AboutMe{
+	font-family: 'Libre Barcode 39 Text', cursive;
+	width: 60%;
+	margin: 16px auto;
+	border: 1px solid #eee;
+	box-shadow: 0 2px 3px #ccc;
+	padding: 16px;
+	text-align:center;
+
+}
+
